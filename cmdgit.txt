@@ -1,0 +1,11 @@
+git add + nom du fichier => pour ajouer un fichier
+git add + * => select tous les fichier
+git commit -m => soumetre les fichier. -m:pour ajouter den commentaire
+git status => voir les commit.
+git log => voir l'historique des commit
+git checkout + cles commit=> revnue sur une commit.
+git checkout master => aller sur dernier commit(le plus recent)
+git branch => pour voirles branch
+git branch + nom branch (ex:navigationComplex) => pour creer une branch
+git merge => fusionner les branche. Nb: li faut sur la branche receveur.
+git branch -d + nom branch => supprumer une branch.
