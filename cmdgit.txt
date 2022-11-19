@@ -2,6 +2,7 @@ git add + nom du fichier => pour ajouer un fichier
 git add + * => select tous les fichier
 git commit -m => soumetre les fichier. -m:pour ajouter den commentaire
 git remote add origin + url du repertoire
+git remote rm origin => permet de suprimer origin.
 git push -u origin (main ou master)
 git status => voir les commit.
 git log => voir l'historique des commit
